@@ -1,3 +1,4 @@
 Ini adalah File pertama yang saya buat
 jenis filenya hanya .txt karena saya baru belajar
 Saya sedang belajar cara commit
+Saya belajar via streaming youtube WPU
